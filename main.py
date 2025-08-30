@@ -1,2 +1,2 @@
-import sys
-print(sys.version)
+name ="Krish Chhabra"
+print (name)

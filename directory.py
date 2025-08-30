@@ -1,0 +1,6 @@
+x=str(10)
+y=float(10)
+z=int(10)
+print("x =",x)
+print("y =",y)
+print("z =",z)
