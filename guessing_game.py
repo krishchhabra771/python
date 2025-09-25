@@ -10,4 +10,4 @@ while True:
     elif user_num>secret_number:
         print('too high !,Try again')    
     else:
-        print(f"Congratulations!,You have guess the number in {attempt} attempt")    
+        print(f"Congratulations!,You have guess the number in {attempt} attempt")
